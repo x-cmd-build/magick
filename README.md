@@ -1,0 +1,1 @@
+magick static binary
